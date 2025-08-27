@@ -1,6 +1,6 @@
 layout: page
 title: "About"
-permalink: /URL-PATH
+permalink: /About
 
 This is an about file
 With a graphic
