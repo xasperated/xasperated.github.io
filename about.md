@@ -1,7 +1,11 @@
+<!!
 layout: page
 title: "About"
 permalink: /About
+!!>
+Presumably this is the right file.
 
+How do I hide the labout etc
 This is an about file
 With a graphic
 
