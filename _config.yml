@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: When  every user id is taken you get "xasperated"
+title: When  every user id is taken you choose "xasperated"
 email: xasperated@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site was initially started to keep some code fragments and documentation, and then morphed into  setting up all the other bits that make a githu.io site content work and look good-ish.
+  This site was initially started to keep some code fragments and documentation, and then morphed into  setting up all the other bits that make  github.io site content work and look-and-feel correct. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://xasperated.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  xasperated
 
 # Build settings
 theme: minima
