@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the personal github site for Brendan's personal files. He's using a long term  ID xasperated that came about after spending what seemed like a whole afternoon creating a new personal ID for slashdot. (Which tells you how long ago I created it.).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+There isn't much code or other files, because I really got interesting in using github after looking at another users personal repository and wondered about the github.io pages and management.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+So this is all about going down a rabbit hole and focusing on the tech to deliver the content, instead of the content. A thing I do a LOT.
 
-
-[jekyll-organization]: https://github.com/jekyll
