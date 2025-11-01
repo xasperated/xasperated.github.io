@@ -28,8 +28,8 @@ url: "https://xasperated.github.com" # the base hostname & protocol for your sit
 github_username:  xasperated
 
 # Build settings
-#theme: minima
-theme: chirpy
+theme: minima
+#theme: chirpy
 plugins:
   - jekyll-feed
 
