@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: When  every user id is taken you choose "xasperated"
+title: When  every UserID is taken you choose "xasperated"
 email: xasperated@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site was initially started to keep some code fragments and documentation, and then morphed into  setting up all the other bits that make  github.io site content work and look-and-feel correct. 
