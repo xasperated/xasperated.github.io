@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Summary
-permalink: /about/
+permalink: /Summary/
 ---
 
 This is the personal github site for Brendan's personal files. He's using a long term  ID xasperated that came about after spending what seemed like a whole afternoon creating a new personal ID for slashdot. (Which tells you how long ago I created it.).
