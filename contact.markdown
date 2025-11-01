@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-!(/images/ Xasperated-penguin-nobackground-20251031.png  "An exaxperated penguin") 
+!(/images/Xasperated-penguin-nobackground-20251031.png  "An exaxperated penguin") 
 
 Name: Brendan Murray
 
